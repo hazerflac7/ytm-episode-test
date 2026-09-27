@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+
+<title>YT Episode Test</title>
+<link>https://example.com</link>
+<description>Android Auto podcast episode classification test</description>
+<language>en-us</language>
+
+<itunes:author>YT Episode Test</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+
+<item>
+<title>Broken Episode Test</title>
+<description>Podcast classification test</description>
+
+<guid isPermaLink="false">yttest-broken-001</guid>
+
+<pubDate>Sun, 27 Sep 2026 16:00:00 GMT</pubDate>
+
+<enclosure
+ url="MP3_URL_HERE"
+ type="audio/mpeg"
+ length="0" />
+
+<itunes:duration>00:03:00</itunes:duration>
+
+</item>
+
+</channel>
+</rss>
