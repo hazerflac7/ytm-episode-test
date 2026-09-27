@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[YTM EpisodeT]]></title>
+		<description><![CDATA[For testing purposes]]></description>
+		<link>https://podcasters.spotify.com/pod/show/kammy0</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Sun, 27 Sep 2026 17:56:32 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/117cff478/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[kammyT]]></author>
+		<copyright><![CDATA[kammyT]]></copyright>
+		<language><![CDATA[dz]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>kammyT</itunes:author>
+		<itunes:summary>For testing purposes</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>kammyT</itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Business">
+			<itunes:category text="Non-Profit"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46844718/46844718-1790531138422-4a80b06c599a5.jpg"/>
+		<item>
+			<title><![CDATA[Ignore ]]></title>
+			<description><![CDATA[<p>streaming channels </p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/kammy0/episodes/Ignore-e3pfags</link>
+			<guid isPermaLink="false">0e078c72-bf39-4edf-a0dc-727180379924</guid>
+			<dc:creator><![CDATA[kammyT]]></dc:creator>
+			<pubDate>Sun, 27 Sep 2026 17:47:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/117cff478/podcast/play/126379996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-27%2F50a9c08c-bdfb-85cd-5a2e-63a19634b198.mp3" length="3889802" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;streaming channels &lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:04:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46844718/46844718-1790531138422-4a80b06c599a5.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
