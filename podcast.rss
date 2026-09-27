@@ -21,13 +21,13 @@
 <title>Static Bloom</title>
 <description>Experimental audio episode.</description>
 
-<guid isPermaLink="false">ytm-static-bloom-20260927-001</guid>
+<guid isPermaLink="false">ytm-static-bloom-20260927-002</guid>
 
 <pubDate>Sun, 27 Sep 2026 14:44:27 -0600</pubDate>
 
 <enclosure
  url="https://hazerflac7.github.io/ytm-episode-test/episode-test.mp3"
- length="905437"
+ length="2881036"
  type="audio/mpeg" />
 
 <itunes:duration>00:03:00</itunes:duration>
