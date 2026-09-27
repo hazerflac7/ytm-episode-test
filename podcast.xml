@@ -1,32 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
- xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+ version="2.0">
+
 <channel>
 
-<title>YT Episode Test</title>
-<link>https://example.com</link>
-<description>Android Auto podcast episode classification test</description>
-<language>en-us</language>
+<title><![CDATA[YTM GitHub Episode Test]]></title>
+<description><![CDATA[YouTube Music RSS episode test]]></description>
+
+<link>https://github.com/hazerflac7/ytm-episode-test</link>
+
+<generator>YT Episode Test</generator>
+
+<lastBuildDate>Sun, 27 Sep 2026 11:57:57 -0600</lastBuildDate>
+
+<atom:link
+ href="https://raw.githubusercontent.com/hazerflac7/ytm-episode-test/main/podcast.xml"
+ rel="self"
+ type="application/rss+xml"/>
+
+<author><![CDATA[YT Episode Test]]></author>
+<copyright><![CDATA[YT Episode Test]]></copyright>
+
+<language><![CDATA[en-us]]></language>
 
 <itunes:author>YT Episode Test</itunes:author>
+<itunes:summary>YouTube Music RSS episode test</itunes:summary>
+<itunes:type>episodic</itunes:type>
+
 <itunes:explicit>false</itunes:explicit>
 
+<itunes:category text="Music"/>
+
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46844718/46844718-1790531138422-4a80b06c599a5.jpg"/>
+
 <item>
-<title>Broken Episode Test</title>
-<description>Podcast classification test</description>
 
-<guid isPermaLink="false">yttest-broken-001</guid>
+<title><![CDATA[GitHub Episode Test]]></title>
 
-<pubDate>Sun, 27 Sep 2026 16:00:00 GMT</pubDate>
+<description><![CDATA[Audio episode classification test]]></description>
+
+<link>https://github.com/hazerflac7/ytm-episode-test</link>
+
+<guid isPermaLink="false">yttest-github-episode-002</guid>
+
+<dc:creator><![CDATA[YT Episode Test]]></dc:creator>
+
+<pubDate>Sun, 27 Sep 2026 11:57:57 -0600</pubDate>
 
 <enclosure
  url="https://raw.githubusercontent.com/hazerflac7/ytm-episode-test/main/episode1.mp3"
- type="audio/mpeg"
- length="905437" />
+ length="905437"
+ type="audio/mpeg"/>
 
-<itunes:duration>00:03:00</itunes:duration>
+<itunes:summary>Audio episode classification test</itunes:summary>
+
+<itunes:explicit>false</itunes:explicit>
+
+<itunes:duration>00:04:00</itunes:duration>
+
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46844718/46844718-1790531138422-4a80b06c599a5.jpg"/>
+
+<itunes:episodeType>full</itunes:episodeType>
 
 </item>
-
 </channel>
 </rss>
